@@ -1,1 +1,9 @@
-# mds3_integrationtesting_2020
+# tests_integration
+
+# Launch API
+
+node index.js
+
+# Launch test
+
+npm test 
